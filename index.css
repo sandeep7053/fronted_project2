@@ -1,0 +1,185 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body,html{
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(215, 212, 212, 0.836);
+}
+
+.main{
+    width: 500px;
+    height: 700px;
+    background-color: white;
+    margin: 10px auto;
+    border-radius: 9px;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+.container{
+    width: 450px;
+    height: 700xp;
+    justify-content: space-between;
+    text-align: center;
+    margin: 5px auto;
+    margin-top: 20px auto;
+}
+
+
+
+.nav-bar{
+    display: flex;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.maindev{
+   
+    display: flex;
+    flex: content;
+    justify-content: space-between;
+    text-align: center;
+    margin: 5px auto;
+    margin-top: 20px auto;
+}
+
+.navbar{
+    margin-top: 20px;
+
+}
+
+.btn{
+    width: 30px;
+    height: 20px;
+    margin-top: 5px;
+    margin-left: 10px;
+    background-color:  hsl(228, 96%, 20%);
+    color: white;
+
+    border-radius: 5px;
+}
+
+.nav-bar a{
+    text-decoration: none;
+}
+
+.nav-first{
+    margin-top: 10px;
+    margin-left: 10px;
+    display: flex;
+   
+
+}
+
+.first-nav{
+    
+    width: 450px;
+    height:80px;
+    background-color: rgb(215, 238, 250);
+    border-radius: 5px;
+}
+
+.image{
+    width: 60px;
+    margin-top: 10px;
+   
+   
+}
+
+.paragarph{
+    text-align:start;
+    color: white;
+    font-family: Arial, sans-serif;
+    
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+b{
+    color: black;
+}
+
+span{
+    color: gray;
+}
+
+h6{
+    color: black;
+}
+
+nav{
+    color: blue;
+}
+
+
+.second-imag{
+    display: flex;
+    margin-top: 10px;
+    margin-left: 10px;
+    
+   
+
+}
+.paragarph .sum{
+    color: gray;
+}
+
+
+
+.second-nav{
+      
+    width: 450px;
+    height:80px;
+   background-color: white;
+    border-radius: 5px;
+
+}
+
+.box-nav{
+    width: 400px;
+    height: 80px;
+    float: left;
+    color: black;
+    border-radius: 10px sloid rgb(185, 181, 181);
+    background-color: rgba(242, 245, 246, 0.97);
+    box-shadow: 10px;
+    margin-left: 50px;
+    margin-top: 10px;
+    text-align: left;
+}
+
+.box-nav p{
+    padding: 5px;
+}
+
+.final-image{
+    display: flex;
+    
+}
+
+.finall{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.final-para{
+    margin-top: 20px;
+    margin-left: 10px;
+    text-align: left;
+}
+.last-nav-bar{
+    display: flex;
+}
+.para-nav-bar{
+    text-align: left;
+    margin-left: 70px;
+    margin-top: 10px;
+    box-shadow: 2px;
+
+}
